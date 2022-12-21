@@ -1,0 +1,66 @@
+.bx{
+    letter-spacing: 0.083em;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgba(41, 41, 41, 1);
+    
+}
+.bn{
+    height: 25px;
+}
+.border-color{
+    border-bottom:1px solid rgb(41, 41, 41) ;
+    background-color:#FFC017;
+    
+}
+.font{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: rgba(8, 8, 8, 1);
+  
+}
+.font h1{
+    font-size: 106px;
+    display: block;
+    box-sizing: inherit;
+    letter-spacing: -0.05em;
+}
+.btn{
+    border-radius:99em;
+    font-size: 22px;
+    width: 213px;
+    border-color: rgb(25, 25, 25, 1);
+    background: rgba(25, 25, 25, 1);
+}
+.btn1{
+    border-radius:99em;
+    background: rgba(25, 25, 25, 1);
+    border-width: 1px;
+}
+.nav{
+    color: rgba(41, 41, 41, 1);
+    font-size: 14px;
+}
+.img1{
+    border-radius: 50%;
+}
+.text-black-50{
+    font-weight: 700;
+    line-height: 36px;
+    width: 40px;
+    top: -10px;
+}
+.border-top{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+.aside{
+    border-radius: 3px;
+    border: 1px solid rgba(230, 230, 230, 1);
+    width: 100px;
+    padding: 6px 16px;
+    display: block;
+    font-size:13px;
+    margin-bottom: 10px;
+    background-color:white;
+}
+.font{
+    font-size: 13px;
+}
